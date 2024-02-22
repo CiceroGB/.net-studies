@@ -1,6 +1,9 @@
 # .NET Practice and Knowledge Repository
 
-Welcome to my .NET Practice and Knowledge Repository! This repository is a space where I solidify my understanding, practice advanced concepts, and share insights about the .NET framework. As a seasoned developer in the .NET ecosystem, my goal is to delve deeper into the nuances of .NET development and to continuously improve my skills through active coding exercises and project development.
+Welcome to my .NET Knowledge and Practice Repository. Here, I aim to further cement my grasp on .NET, spanning from foundational concepts to more complex topics. As someone who has worked within the .NET framework, I see this space as an opportunity to explore deeper into .NET development and refine my skills through hands-on projects and coding practices.
+
+![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg) ![Microsoft Logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg)
+
 
 ## About This Repository
 
