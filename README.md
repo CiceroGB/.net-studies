@@ -2,7 +2,8 @@
 
 Welcome to my .NET Knowledge and Practice Repository. Here, I aim to further cement my grasp on .NET, spanning from foundational concepts to more complex topics. As someone who has worked within the .NET framework, I see this space as an opportunity to explore deeper into .NET development and refine my skills through hands-on projects and coding practices.
 
-![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg) ![Microsoft Logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="100" alt=".NET Logo" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="120" alt="Microsoft Logo" />
+
 
 
 ## About This Repository
