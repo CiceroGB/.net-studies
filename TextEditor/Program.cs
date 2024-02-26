@@ -31,7 +31,12 @@ static void Abrir()
 {
     Console.Clear();
     Console.WriteLine("Qual caminho do arquivo?");
-    string path = Console.ReadLine();
+    string? path = Console.ReadLine();
+
+    if (path == null)
+    {
+        throw new ArgumentNullException(nameof(path), "O caminho do arquivo não pode ser nulo.");
+    }
 
     try
     {
@@ -73,6 +78,10 @@ static void Salvar(string text)
     Console.Clear();
     Console.WriteLine("Qual caminho para salvar o arquivo?");
     var path = Console.ReadLine();
+    if (path == null)
+    {
+        throw new ArgumentNullException(nameof(path), "O caminho do arquivo não pode ser nulo.");
+    }
 
     try
     {
