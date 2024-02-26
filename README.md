@@ -32,8 +32,8 @@ Each directory within this repository corresponds to a specific area of .NET dev
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
-
 - The .NET community for providing invaluable resources and support.
+- [balta.io](https://balta.io/) classes.
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) for comprehensive guides and tutorials on .NET.
 - [Stack Overflow](https://stackoverflow.com/) for being an ever-reliable source of answers and insights.
 
